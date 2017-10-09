@@ -12,8 +12,8 @@ Alternatively, download the files directly from <https://platform.swampinabox.or
 
 The documentation for SWAMP-in-a-Box includes:
 
-- [A user manual](https://platform.swampinabox.org/siab-latest-release/user_manual.html)
-  [(pdf)](https://platform.swampinabox.org/siab-latest-release/user_manual.pdf),
+- [An adminstrator manual](https://platform.swampinabox.org/siab-latest-release/administrator_manual.html)
+  [(pdf)](https://platform.swampinabox.org/siab-latest-release/administrator_manual.pdf),
   which covers how to set up the SWAMP-in-a-Box host, and installing and configuring SWAMP-in-a-Box.
 - [A reference manual](https://platform.swampinabox.org/siab-latest-release/reference_manual.html)
   [(pdf)](https://platform.swampinabox.org/siab-latest-release/reference_manual.pdf),
